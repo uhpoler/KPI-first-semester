@@ -1,7 +1,7 @@
 *.d
 
 /.idea
-/lab1.idea
-/lab1/cmake-build-debug
-/lab1/CMakeList.txt
+/Basics of programming/code/lab1.idea
+/Basics of programming/code/lab1/cmake-build-debug
+/Basics of programming/code/lab1/CMakeList.txt
 
