@@ -3,5 +3,35 @@
 /.idea
 /Basics of programming/code/lab1/.idea
 /Basics of programming/code/lab1/cmake-build-debug
-/Basics of programming/code/lab1/CMakeList.txt
+/Basics of programming/code/lab1/CMakeLists.txt
+/Basics of programming/code/lab2/.idea
+/Basics of programming/code/lab2/cmake-build-debug
+/Basics of programming/code/lab2/CMakeLists.txt
+/Basics of programming/code/lab3.1/.idea
+/Basics of programming/code/lab3.1/cmake-build-debug
+/Basics of programming/code/lab3.1/CMakeLists.txt
+/Basics of programming/code/lab3.2/.idea
+/Basics of programming/code/lab3.2/cmake-build-debug
+/Basics of programming/code/lab3.2/CMakeLists.txt
+/Basics of programming/code/lab3.3/.idea
+/Basics of programming/code/lab3.3/cmake-build-debug
+/Basics of programming/code/lab3.3/CMakeLists.txt
+/Basics of programming/code/lab4.1/.idea
+/Basics of programming/code/lab4.1/cmake-build-debug
+/Basics of programming/code/lab4.1/CMakeLists.txt
+/Basics of programming/code/lab4.2/.idea
+/Basics of programming/code/lab4.2/cmake-build-debug
+/Basics of programming/code/lab4.2/CMakeLists.txt
+/Basics of programming/code/lab5/.idea
+/Basics of programming/code/lab5/cmake-build-debug
+/Basics of programming/code/lab5/CMakeLists.txt
+/Basics of programming/code/lab6/.idea
+/Basics of programming/code/lab6/cmake-build-debug
+/Basics of programming/code/lab6/CMakeLists.txt
+/Basics of programming/code/lab7/.idea
+/Basics of programming/code/lab7/cmake-build-debug
+/Basics of programming/code/lab7/CMakeLists.txt
+/Basics of programming/code/lab8/.idea
+/Basics of programming/code/lab8/cmake-build-debug
+/Basics of programming/code/lab8/CMakeLists.txt
 
